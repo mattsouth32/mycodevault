@@ -1,0 +1,13 @@
+touch test
+ls -l 
+#file is there, rw, r, r
+
+#to have all users to have permissions on this file is chmod
+
+chmod 777 test
+#file is green in ls, all rwx permission for everyone (read write execute)
+
+chd 444 test 
+#read only permission
+
+chmod 644 is default

@@ -1,0 +1,11 @@
+IFS - internal field separator
+
+if I did set This is a stupid program
+
+ecbo $1 is this
+echo $2 is is
+echo $3 is a 
+
+and so on
+
+DEFAULT IFS IS SPACEBAR AS IN THESE EXAMPLES

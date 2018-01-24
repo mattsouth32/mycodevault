@@ -1,0 +1,9 @@
+metacharacters
+
+ls cal echo "Hello" - will give error messages
+
+NEED METACHARACTERS
+
+ls ; cal ; echo "Hello"
+
+; is the metacharacter similar to java or something

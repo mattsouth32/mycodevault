@@ -1,0 +1,14 @@
+cat > test
+This is an ascii text file
+ctrl+d
+
+cat test
+
+to convert to all uppercase
+
+if = input file, of = output file, uppercase
+dd if=test of=outTest conv=ucase
+
+different encoding
+crazy encoding
+dd if=test of=test22 conv=ebcdic

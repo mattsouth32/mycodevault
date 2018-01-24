@@ -1,0 +1,14 @@
+touch derpydoo
+mv derpydoo dooderpy
+
+rm dooderpy
+
+#new directory
+mkdir new 
+#removes directory
+rm -r new 
+
+#remove nother
+mkdir test
+rmdir test
+

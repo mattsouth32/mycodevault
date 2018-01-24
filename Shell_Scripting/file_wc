@@ -1,0 +1,19 @@
+cat > jazy
+This is the first line
+We are on line two now
+I am stupid
+I should probably stop for awhile
+ctrl + d
+
+* represents all files in directory
+file * - similar to ls
+
+wc jazy
+
+number of lines in file, number of words, number of characters
+
+wc -l jazy
+just prints lines
+
+wc -w - words
+wc -c - characters

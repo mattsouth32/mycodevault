@@ -1,0 +1,4 @@
+set `cat FILENAME (text file)`
+echo $*
+will display all the positional parameters in accordance with the text file\
+only use reverse accents with files!!

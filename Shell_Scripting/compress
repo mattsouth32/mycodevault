@@ -1,0 +1,13 @@
+man cat
+
+banner - not working with mint?
+
+-v - shell will display message
+compress -v ww2
+had to get compress from repository
+turned it in to z file
+
+zcat ww2.z
+
+convert back
+uncompress ww2

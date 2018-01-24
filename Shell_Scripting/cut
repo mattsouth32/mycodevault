@@ -1,0 +1,17 @@
+cat players
+name-sport-age
+roger-tennis-30
+rafel nadal-tennis-25
+tiger woods-golf-37
+michael phelps-swimmer-30
+ctrl d
+
+the default cut is spaces
+in this file is hyphen
+so we split on that
+
+f is fields, 1st and 3rd field
+cut -d "-" -f 1,3 players
+
+cut -d "-" -f 2 players
+sports only

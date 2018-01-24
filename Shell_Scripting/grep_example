@@ -1,0 +1,3 @@
+grep -i factory peaches > jerk.txt && echo "The task was completed"
+
+#grep finds factory peaches files and appends it to jerk.txt (the line with factory in in)

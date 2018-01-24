@@ -1,0 +1,9 @@
+ls - files/directories
+ls -l - permissions, size, etc
+
+
+touch .derp 
+#hidden
+
+ls -a
+#shows hidden

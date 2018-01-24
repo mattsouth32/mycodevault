@@ -1,0 +1,46 @@
+cat > animals
+dogs
+cows
+camels
+cats
+frogs
+giraffes
+asses
+ctrl + d
+
+cat animals
+
+cat > sports
+baseball
+tennis
+football
+soccer
+ice hockey
+wrestling
+basketball
+ctrl + d
+
+cat sports
+
+cat > sentences
+I am stupid
+You are stupid
+I am not gay
+Livvy is awesome
+
+extract text out from animals. arranges sentences in alphabetical order
+sort animals
+sort sports
+
+typing sort in shell, waits for input
+sort
+Apocalypse now
+Cast Away
+Forest gump
+Raging bull
+Goodfellas
+Lord of the rings
+Avatar
+ctrl + d
+
+will display in alphabetical order

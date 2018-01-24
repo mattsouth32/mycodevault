@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=gedit
+Terminal=false
+Name=gedit
+Exec=gedit
+Type=Application
+Icon=gnome-panel-launcher

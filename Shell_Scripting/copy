@@ -1,0 +1,5 @@
+#creates file named old
+touch old
+
+#copies old file to directory music and name oldMusic
+cp old Music/oldMusic

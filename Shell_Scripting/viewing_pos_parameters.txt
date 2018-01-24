@@ -1,0 +1,1 @@
+Viewing positional parameters in bash - echo $1, $2, $*

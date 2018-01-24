@@ -1,0 +1,17 @@
+grep command - finds match words in text files (and probably other 
+files who knows)
+
+look in file peaches (doesn't have .txt filename)
+
+so to find lines with peaches -
+
+grep -i peaches peaches -i is necessary to ignore case
+grep -i factory preaches (looks for the word factory)
+
+grep -i -n peaches peaches - prints line numbers they're on
+
+grep -i -c peaches peaches - pritns number of lines it appears on
+
+grep -i -c -v - -v is amount of lines it doesn't appear on
+
+grep -i -v - prints lines without peaches

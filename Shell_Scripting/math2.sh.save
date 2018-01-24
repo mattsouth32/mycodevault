@@ -1,0 +1,16 @@
+#!/bin/bash
+#math examples precedence
+
+a=30 b=15
+echo `expr $a + $b`
+echo `expr $a - $b`
+echo `expr $a \* $b`
+echo `expr $a / $b`
+echo `expr $a % $b`
+
+#reverse quotes to get shell to not just print out the statement but do what we want
+
+c=2 d=5
+
+\($a \* \($b + $c\)\
+#need ) / $d

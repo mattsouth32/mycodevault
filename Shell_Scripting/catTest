@@ -1,0 +1,12 @@
+cat command
+
+cat > stupid
+goes down to next line, must hit ctrl + d to save
+
+cat < stupid - reads the file
+
+cat > random 
+This is a random file
+Ctrl + d
+
+cat random stupid > dumbass

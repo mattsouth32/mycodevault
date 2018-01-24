@@ -1,0 +1,24 @@
+USEFUL EASY COMMANDS -
+
+passwd - change password
+
+logout - self explanatory
+
+shutdown commands -
+halt -
+init 0 - clean poweroff
+init 6 - shut down completely and restart
+poweroff - powering off
+reboot - derp
+shutdown - derp
+
+date
+cal - calendar, cal 7 2016
+
+pwd - present working directory
+
+touch - creates text files
+
+mkdir/rmdir - creates directory/removes
+cd - change directory (pop, pushd as well)
+

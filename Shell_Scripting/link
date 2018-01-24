@@ -1,0 +1,6 @@
+touch old
+ln old new
+#creates a file called new, this file is "linked" with old and is a hard link, meaning that whatever happens to old will be transferred to new
+
+ln -s old old_soft
+#if original file gets deleted, this link is broken and soft link is trash
